@@ -1,0 +1,9 @@
+
+Links of the APIS:
+
+For the Articles API Exercise:
+	http://127.0.0.1:8000/api/articles/
+
+For the Competency Exam Job Board API:
+	http://127.0.0.1:8000/job_api/jobs/
+
