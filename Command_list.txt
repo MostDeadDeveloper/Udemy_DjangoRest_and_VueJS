@@ -1,0 +1,16 @@
+python3 -m venv myvenv - declares a new env variable
+
+
+python -m pip install --upgrade pip - upgrades current pip
+
+pip install -r requirements.txt -adds django
+
+pip freeze - see installed packages.
+
+
+Section 5 Packages
+Django==2.2.12
+djangorestframework==3.11.0
+Pillow==7.1.1
+pytz==2019.3
+sqlparse==0.3.1
